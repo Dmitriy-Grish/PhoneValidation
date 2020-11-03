@@ -1,0 +1,14 @@
+.container {
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 350px;
+  height: 600px;
+}
+
+.flag-logo {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
